@@ -1,4 +1,4 @@
-# microZed_board_defination
+# MicroZed Board Defination Files
 
 The board defination files for MicroZed board for Vivado.
 Each vivado version would have a tag.
